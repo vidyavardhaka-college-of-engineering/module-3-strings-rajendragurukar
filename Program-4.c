@@ -11,7 +11,7 @@
 #include <stdio.h>
 int main()
 {
- char str[100000];
+ char str[100];
  int i;
     // Declare the required variables
     printf("Enter a string: ");
