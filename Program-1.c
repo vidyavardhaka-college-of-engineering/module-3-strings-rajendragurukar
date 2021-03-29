@@ -13,6 +13,6 @@ int main()
   char str[20]; //Declare the string
   printf("enter a string:");
   scanf("%s",str);//read the string from user               
-printf("the enterd a String is %s",str);//Print the string
+printf("The input string is %s",str);//Print the string
 return 0;
 }
